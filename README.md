@@ -1,8 +1,8 @@
 # AI Sentiment Analyzer
 
-In this project, I built a Python script that uses the OpenAI API to analyze the sentiment of text input. You give it a sentence or paragraph and it tells you whether the tone is positive, negative, or neutral - along with a confidence score and a short explanation of why.
+Python script that uses the OpenAI API to analyze text sentiment. Give it a sentence or paragraph and it tells you if the tone is positive, negative, or neutral - with a confidence score and a short explanation.
 
-I wanted to see how easy it is to integrate AI into a simple tool that could be useful for things like analyzing customer reviews, survey responses, or social media posts.
+Built this to get a feel for integrating the OpenAI API into something practical - could be useful for analyzing customer reviews, survey responses, social media posts, stuff like that.
 
 ## Technologies Used
 
